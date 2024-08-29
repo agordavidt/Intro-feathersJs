@@ -1,0 +1,2 @@
+email: hello@feathersjs.com
+password: supersecret
